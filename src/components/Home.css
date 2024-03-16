@@ -1,0 +1,37 @@
+.home-container {
+  background-color: #0d1b2a;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.welcome-message {
+  font-size: 48px;
+  font-family: 'Arial Black', sans-serif;
+  color: #fff;
+  margin-bottom: 10px;
+  margin-top: 100px;
+}
+
+.my-photo {
+  width: 300px;
+  height: auto;
+  margin-top: 20px;
+}
+
+.additional-info {
+  color: #fff;
+  margin-top: 20px;
+}
+
+.footer {
+  color: #fff;
+  margin-top: 50px;
+}
+
+.footer-link {
+  color: #fff;
+  text-decoration: underline;
+}
